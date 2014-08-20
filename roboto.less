@@ -1,0 +1,30 @@
+/* 
+    Created on : 20/08/2014, 16:00:03
+    Author     : Davidson Alencar
+*/
+.font-face-roboto(@file-name, @weight, @style){
+    @path-fonts: 'fonts';
+    @font-face {
+        font-family: 'roboto';
+        src:url('@{path-fonts}/@{file-name}.eot');
+        src:url('@{path-fonts}/@{file-name}.eot?#iefix') format('embedded-opentype'),
+            url('@{path-fonts}/@{file-name}.woff') format('woff'),
+            url('@{path-fonts}/@{file-name}.ttf') format('truetype'),
+            url('@{path-fonts}/@{file-name}.svg#roboto') format('svg');
+        font-weight: @weight;
+        font-style: @style;
+    }
+}
+
+.font-face-roboto('roboto-thin', 100, normal);
+.font-face-roboto('roboto-thinitalic', 100, italic);
+.font-face-roboto('roboto-light', 300, normal);
+.font-face-roboto('roboto-lightitalic', 300, italic);
+.font-face-roboto('roboto-regular', 400, normal);
+.font-face-roboto('roboto-italic', 400, italic);
+.font-face-roboto('roboto-medium', 500, normal);
+.font-face-roboto('roboto-mediumitalic', 500, italic);
+.font-face-roboto('roboto-bold', 700, normal);
+.font-face-roboto('roboto-bolditalic', 700, italic);
+.font-face-roboto('roboto-black', 900, normal);
+.font-face-roboto('roboto-blackitalic', 900, italic);

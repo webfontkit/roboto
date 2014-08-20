@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-thin.eot');
+  src: url('fonts/roboto-thin.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-thin.woff') format('woff'), url('fonts/roboto-thin.ttf') format('truetype'), url('fonts/roboto-thin.svg#roboto') format('svg');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-thinitalic.eot');
+  src: url('fonts/roboto-thinitalic.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-thinitalic.woff') format('woff'), url('fonts/roboto-thinitalic.ttf') format('truetype'), url('fonts/roboto-thinitalic.svg#roboto') format('svg');
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-light.eot');
+  src: url('fonts/roboto-light.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-light.woff') format('woff'), url('fonts/roboto-light.ttf') format('truetype'), url('fonts/roboto-light.svg#roboto') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-lightitalic.eot');
+  src: url('fonts/roboto-lightitalic.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-lightitalic.woff') format('woff'), url('fonts/roboto-lightitalic.ttf') format('truetype'), url('fonts/roboto-lightitalic.svg#roboto') format('svg');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-regular.eot');
+  src: url('fonts/roboto-regular.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-regular.woff') format('woff'), url('fonts/roboto-regular.ttf') format('truetype'), url('fonts/roboto-regular.svg#roboto') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-italic.eot');
+  src: url('fonts/roboto-italic.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-italic.woff') format('woff'), url('fonts/roboto-italic.ttf') format('truetype'), url('fonts/roboto-italic.svg#roboto') format('svg');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-medium.eot');
+  src: url('fonts/roboto-medium.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-medium.woff') format('woff'), url('fonts/roboto-medium.ttf') format('truetype'), url('fonts/roboto-medium.svg#roboto') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-mediumitalic.eot');
+  src: url('fonts/roboto-mediumitalic.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-mediumitalic.woff') format('woff'), url('fonts/roboto-mediumitalic.ttf') format('truetype'), url('fonts/roboto-mediumitalic.svg#roboto') format('svg');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-bold.eot');
+  src: url('fonts/roboto-bold.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-bold.woff') format('woff'), url('fonts/roboto-bold.ttf') format('truetype'), url('fonts/roboto-bold.svg#roboto') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-bolditalic.eot');
+  src: url('fonts/roboto-bolditalic.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-bolditalic.woff') format('woff'), url('fonts/roboto-bolditalic.ttf') format('truetype'), url('fonts/roboto-bolditalic.svg#roboto') format('svg');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-black.eot');
+  src: url('fonts/roboto-black.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-black.woff') format('woff'), url('fonts/roboto-black.ttf') format('truetype'), url('fonts/roboto-black.svg#roboto') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('fonts/roboto-blackitalic.eot');
+  src: url('fonts/roboto-blackitalic.eot?#iefix') format('embedded-opentype'), url('fonts/roboto-blackitalic.woff') format('woff'), url('fonts/roboto-blackitalic.ttf') format('truetype'), url('fonts/roboto-blackitalic.svg#roboto') format('svg');
+  font-weight: 900;
+  font-style: italic;
+}
